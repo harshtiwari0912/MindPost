@@ -1,1 +1,2 @@
 # MindPost
+MindPost is a Node.js and Express-based web app where users can freely express their thoughts through posts. Users can register, log in securely, create and edit posts, like others' content, and upload profile pictures. Features include personalized profiles, real-time interaction via likes, secure authentication with JWT, and smooth content sharing — making it a simple yet engaging user experience.
